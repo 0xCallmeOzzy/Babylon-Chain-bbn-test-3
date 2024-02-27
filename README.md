@@ -2,7 +2,7 @@
 
 ## VPS Paket Tercihi
 
-### Minimum gereksinimler
+### 1. Minimum gereksinimler
 
 > **4 CPU**
 > 
@@ -14,6 +14,19 @@ Yeni donanım gereksinimleri artık daha yüksek olsa da, şimdilik Cloud VPS 2 
 >
 ![Ekran Resmi 2024-02-27 18 20 44](https://github.com/0xCallmeOzzy/Babylon-Chain-bbn-test-3/assets/132007152/92b1de86-b730-4727-bda9-cb4dd573a0ef)
 
+### 2. Region
+
+![Ekran Resmi 2024-02-27 19 10 39](https://github.com/0xCallmeOzzy/Babylon-Chain-bbn-test-3/assets/132007152/fa8e0bda-8082-4096-b25c-90487c971d26)
+
+### 3. Storage Type
+
+![Ekran Resmi 2024-02-27 19 11 01](https://github.com/0xCallmeOzzy/Babylon-Chain-bbn-test-3/assets/132007152/32584796-1686-4884-9f3b-beda04b13638)
+
+### 4. Image
+
+Ubuntu 22.04 ile Docker'a erişmek için "Uygulamalar ve Paneller" bölümüne gidin ve uygun seçimi yapın:
+
+![Ekran Resmi 2024-02-27 19 12 04](https://github.com/0xCallmeOzzy/Babylon-Chain-bbn-test-3/assets/132007152/f6ac6ce2-7faa-467c-98d7-4b4976c2b8c2)
 
 ## 1. Adım ( Paketleri güncelle )
 
