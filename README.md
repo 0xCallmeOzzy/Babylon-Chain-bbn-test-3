@@ -24,7 +24,7 @@ Yeni donanım gereksinimleri artık daha yüksek olsa da, şimdilik Cloud VPS 2 
 
 ### 4. Image
 
-Ubuntu 22.04 ile Docker'a erişmek için "Uygulamalar ve Paneller" bölümüne gidin ve uygun seçimi yapın:
+Ubuntu 22.04 ile Docker'a erişmek için "Apps & Panels" bölümüne gidin ve uygun seçimi yapın:
 
 ![Ekran Resmi 2024-02-27 19 12 04](https://github.com/0xCallmeOzzy/Babylon-Chain-bbn-test-3/assets/132007152/f6ac6ce2-7faa-467c-98d7-4b4976c2b8c2)
 
